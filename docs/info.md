@@ -18,7 +18,7 @@ These partial products are accumulated row by row using full adders,
 with the carry propagated through successive rows. 
 The final product, `p`, is composed from the sum and carry values of the last rows and is assigned to the 8-bit output (`uo_out`).
 
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Alt text](relative%20path/to/img.jpeg?raw=true "Title")
 
 ## How to test
 
